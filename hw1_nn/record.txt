@@ -1,0 +1,4 @@
+relu+sigmoid
+net2 = Network(input_size=784, hidden_size=128, hidden_size2=64, output_size=10, lr=0.03)
+    if epoch > 5: lr = 0.003
+testacc:0.939
